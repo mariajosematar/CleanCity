@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CleanCity - Smart Waste Management Scheduler
 
 ## Description
@@ -147,4 +146,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 9178b59 (Initialize project using Create React App)
